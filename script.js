@@ -39,9 +39,9 @@ const quizArray = [
         id: "3",
         question: 'Select the valid statement.',
         options: [
-            'Char[] ch = new char(5)', 
-            'Char[] ch = new char[5]', 
-            'Char[] ch = new char()', 
+            'Char[] ch = new char(5)',
+            'Char[] ch = new char[5]',
+            'Char[] ch = new char()',
             'Char[] ch = new char[]'
         ],
         correct: 'Char[] ch = new char[5]',
@@ -65,7 +65,7 @@ const quizArray = [
     }, {
         id: "6",
         question: 'When is the object created with new keyword?',
-        options: ['At run time','At compile time','Depends on the code', 'None',],
+        options: ['At run time', 'At compile time', 'Depends on the code', 'None',],
         correct: 'At run time',
     },
     {
@@ -77,7 +77,7 @@ const quizArray = [
     {
         id: "8",
         question: 'In which of the following is toString() method defined? ',
-        options: ['java.lang.Object','java.lang.String','java.lang.util','None',],
+        options: ['java.lang.Object', 'java.lang.String', 'java.lang.util', 'None',],
         correct: 'java.lang.Object',
     },
     {
